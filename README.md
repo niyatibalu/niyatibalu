@@ -1,5 +1,5 @@
 Hi, I’m Niyati! 💁🏻‍♀️ 
- I'm an ambitious and sincere learner with a strong passion for technology 🌐 
- A python beginner learning Tkinter, Pandas, Pyaudio, and more 🤖 
- I'm a talented dancer and singer 💃🏻🎶 
+ An ambitious learner with a strong passion for technology 🌐 
+ Python enthusiast creating innovative projects 🤖 
+ Dance and Vocal aficianado💃🏻🎶 
  Reach out to me on @niyati-balu at LinkedIn 
